@@ -1,5 +1,3 @@
-# Shiba Dev's theme / InuDev's theme
+# Shiba-Dev-Theme
 
-## Code
-
-The code is located in package.json, this theme is for Visual Studio Code
+A personal theme I made a long time ago for Visual Studio Code, feel free to check my [Zed Editor - Coffee theme](https://github.com/InuzDev/InuzDev-Coffee)
